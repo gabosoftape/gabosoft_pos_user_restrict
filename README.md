@@ -1,1 +1,0 @@
-gabosoft_pos_user_restrict
